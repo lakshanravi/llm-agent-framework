@@ -1,10 +1,10 @@
-# 🤖 LangChain ReAct Agent — Google Gemini + DuckDuckGo
+#  LangChain ReAct Agent — Google Gemini + DuckDuckGo
 
 A ReAct (Reasoning + Acting) agent built with LangChain, powered by **Google Gemini** and **DuckDuckGo search** — tested entirely in Google Colab. No local setup needed!
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. **File → Upload notebook** → select `langchain_react_agent_gemini_colab.ipynb`
